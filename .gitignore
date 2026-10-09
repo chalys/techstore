@@ -1,0 +1,63 @@
+```gitignore
+
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Carpetas de salida de compilación
+bin/
+out/
+target/
+build/
+dist/
+
+# Archivos de configuración de VS Code
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Archivos de sistemas de build
+.gradle/
+mvnw
+mvnw.cmd
+.mvn/
+
+# Archivos de log
+*.log
+logs/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración de IDE (IntelliJ, Eclipse, NetBeans)
+.idea/
+*.iml
+*.ipr
+*.iws
+nbproject/
+nbdist/
+nbbuild/
+.nb-gradle/
+
+# Variables de entorno y secretos
+.env
+*.env
+secrets.properties
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Reportes de cobertura y tests
+.sonar/
+coverage/
+*.exec
