@@ -1,5 +1,4 @@
 # 🛒 TechStore - Sistema de Gestión
----
 Aplicación de consola desarrollada en Java para registrar, listar y gestionar productos, además de crear pedidos con múltiples productos y descontar el stock automáticamente.
 
 >    🎓 Preentrega — Ejercicio Práctico Obligatorio
