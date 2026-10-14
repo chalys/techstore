@@ -10,15 +10,18 @@ Aplicación de consola desarrollada en Java para registrar, listar y gestionar p
 
 ## 📁 Estructura del proyecto
 <pre> 
-src/
-└── com/
+techstore/
+├── README.md
+├── .gitignore
+└── src/
+    └── com/
         └── techstore/
-        ├── Main.java
-        ├── exception/  # Excepciones personalizadas
-        ├── model/      # Producto, Bebida, Comida, Pedido, LineaPedido
-        ├── service/    # ProductoService, PedidoService
-        ├── ui/         # Menu, ProductoUI, PedidoUI
-        └── util/       # Validador, Consola
+            ├── Main.java
+            ├── exception/   # Excepciones personalizadas
+            ├── model/       # Producto, Bebida, Comida, Pedido, LineaPedido
+            ├── service/     # ProductoService, PedidoService
+            ├── ui/          # Menu, ProductoUI, PedidoUI
+            └── util/        # Validador, Consola
 </pre>
 
 ## 🚀 Cómo ejecutar
@@ -74,5 +77,5 @@ Abrir el archivo Main.java y presionar el botón ▶ Run de VS Code.
 
 ## 👨‍💻 Autor
 Carlos Arando
-* Curso: Back-End Java
+* Curso: Talento Tech - Back-End Java
 * Proyecto: TechStore - Sistema de Gestión
